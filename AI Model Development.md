@@ -8,3 +8,4 @@
 - [llm-langflow](https://github.com/monate615/llm-langflow)
 - [cv-sudoku](https://github.com/monate615/cv-sudoku)
 - [cv-object-detection](https://github.com/monate615/cv-obj-detection)
+- [cv-satellite-img-object-detection](https://github.com/monate615/cv-satellite-img-obj-detection)
