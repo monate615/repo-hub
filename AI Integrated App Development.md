@@ -1,5 +1,5 @@
 <div>
-  <img alt="ai integrated apps" src="https://github.com/monate615/portfolio/blob/main/images/chatbot2.jpeg">
+  <img alt="ai integrated apps" src="https://github.com/monate615/portfolio/blob/main/images/chatbot2.jpeg" align="center">
   <h1 align="center">AI Integrated Apps</h1>
 </div>
 
