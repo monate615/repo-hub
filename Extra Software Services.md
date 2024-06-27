@@ -3,7 +3,5 @@
   <h1 align="center">Extra Software Services</h1>
 </div>
 
-- [ai-chatbot-nextjs](https://github.com/monate615/ai-chatbot-nextjs)
-- [chatbot-design-platform](https://github.com/monate615/chatbot-design-platform)
-- [ChatGPT](https://github.com/monate615/ChatGPT)
+- [casino-nextjs](https://github.com/monate615/casino-nextjs)
 
