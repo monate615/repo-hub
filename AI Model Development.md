@@ -5,3 +5,4 @@
 
 - [llm-flowise](https://github.com/monate615/llm-flowise)
 - [llm-llama-factory](https://github.com/monate615/llm-llama-factory)
+- [llm-langflow](https://github.com/monate615/llm-langflow)
