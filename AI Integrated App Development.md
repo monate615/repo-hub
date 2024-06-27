@@ -15,3 +15,4 @@
 - [civitai-client-python](https://github.com/monate615/civitai-client-python)
 - [civit-ui](https://github.com/monate615/civit-ui)
 - [cover-img-generator](https://github.com/monate615/cover-img-generator)
+- [civitai-developer](https://github.com/monate615/civitai-developer)
