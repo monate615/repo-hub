@@ -12,3 +12,4 @@
 - [chillout-ai](https://github.com/monate615/chillout-ai)
 - [civitai-to-notion](https://github.com/monate615/civitai-to-notion)
 - [civitai-client-js](https://github.com/monate615/civitai-client-js)
+- [civitai-client-python](https://github.com/monate615/civitai-client-python)
