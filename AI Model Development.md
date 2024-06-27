@@ -3,4 +3,4 @@
   <h1 align="center">AI Models</h1>
 </div>
 
-- [ai-chatbot-nextjs](https://github.com/monate615/ai-chatbot-nextjs)
+- [llm-flowise](https://github.com/monate615/llm-flowise)
