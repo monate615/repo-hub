@@ -9,4 +9,5 @@
 - [ChatGPT](https://github.com/monate615/ChatGPT)
 - [openai-img-generator](https://github.com/monate615/openai-img-generator)
 - [trees-generator](https://github.com/monate615/trees-generator)
+- [chillout-ai](https://github.com/monate615/chillout-ai)
 
