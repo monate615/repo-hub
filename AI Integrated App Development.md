@@ -3,6 +3,7 @@
   <h1 align="center">AI Integrated Apps</h1>
 </div>
 
+- [search-with-lepton](https://github.com/monate615/search-with-lepton)
 - [ai-chatbot-nextjs](https://github.com/monate615/ai-chatbot-nextjs)
 - [chatbot-design-platform](https://github.com/monate615/chatbot-design-platform)
 - [ChatGPT](https://github.com/monate615/ChatGPT)
