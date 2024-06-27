@@ -14,3 +14,4 @@
 - [civitai-client-js](https://github.com/monate615/civitai-client-js)
 - [civitai-client-python](https://github.com/monate615/civitai-client-python)
 - [civit-ui](https://github.com/monate615/civit-ui)
+- [cover-img-generator](https://github.com/monate615/cover-img-generator)
