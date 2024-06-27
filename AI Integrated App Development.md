@@ -7,4 +7,5 @@
 - [ai-chatbot-nextjs](https://github.com/monate615/ai-chatbot-nextjs)
 - [chatbot-design-platform](https://github.com/monate615/chatbot-design-platform)
 - [ChatGPT](https://github.com/monate615/ChatGPT)
+- [openai-img-generator](https://github.com/monate615/openai-img-generator)
 
