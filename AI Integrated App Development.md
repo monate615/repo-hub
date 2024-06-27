@@ -16,3 +16,4 @@
 - [civit-ui](https://github.com/monate615/civit-ui)
 - [cover-img-generator](https://github.com/monate615/cover-img-generator)
 - [civitai-developer](https://github.com/monate615/civitai-developer)
+- [civitai-sd-extension](https://github.com/monate615/civitai-sd-extension)
