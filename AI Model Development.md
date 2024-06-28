@@ -12,3 +12,4 @@
 - [yolo-v8-nightshift](https://github.com/monate615/yolo-v8-nightshift)
 - [yolo-obj-detection](https://github.com/monate615/yolo-obj-detection)
 - [tensorflow2-yolo-v3](https://github.com/monate615/tensorflow2-yolo-v3)
+- [barcode-detection-and-decoding](https://github.com/monate615/barcode-detection-and-decoding)
