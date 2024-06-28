@@ -18,3 +18,4 @@
 - [civitai-developer](https://github.com/monate615/civitai-developer)
 - [civitai-sd-extension](https://github.com/monate615/civitai-sd-extension)
 - [civitai-sd-browser-plus](https://github.com/monate615/civitai-sd-browser-plus)
+- [civitai-stable-diffusion-webui-helper](https://github.com/monate615/civitai-stable-diffusion-webui)
