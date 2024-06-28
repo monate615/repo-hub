@@ -23,3 +23,4 @@
 - [midjourney-api-php](https://github.com/monate615/midjourney-api-php)
 - [imagine-hub-dalle](https://github.com/monate615/imagine-hub-dalle)
 - [nsfw-bot](https://github.com/monate615/nsfw-bot)
+- [spicyflix](https://github.com/monate615/spicyflix)
