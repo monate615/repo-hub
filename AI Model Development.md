@@ -10,3 +10,4 @@
 - [cv-object-detection](https://github.com/monate615/cv-obj-detection)
 - [cv-satellite-img-object-detection](https://github.com/monate615/cv-satellite-img-obj-detection)
 - [yolo-v8-nightshift](https://github.com/monate615/yolo-v8-nightshift)
+- [yolo-obj-detection](https://github.com/monate615/yolo-obj-detection)
