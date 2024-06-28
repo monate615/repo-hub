@@ -25,3 +25,4 @@
 - [nsfw-bot](https://github.com/monate615/nsfw-bot)
 - [spicyflix](https://github.com/monate615/spicyflix)
 - [discord-auto-nsfw](https://github.com/monate615/discord-auto-nsfw)
+- [all-in-discord-bot](https://github.com/monate615/all-in-discord-bot)
