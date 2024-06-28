@@ -24,3 +24,4 @@
 - [imagine-hub-dalle](https://github.com/monate615/imagine-hub-dalle)
 - [nsfw-bot](https://github.com/monate615/nsfw-bot)
 - [spicyflix](https://github.com/monate615/spicyflix)
+- [discord-auto-nsfw](https://github.com/monate615/discord-auto-nsfw)
