@@ -9,4 +9,5 @@
 - [travel-app-flutterflow](https://github.com/monate615/travel-app-flutterflow)
 - [translator-react-native](https://github.com/monate615/translator-react-native)
 - [imagin-react-native](https://github.com/monate615/imagine-react-native)
+- [article-scraper-selenium](https://github.com/monate615/article-scraper-selenium)
 
