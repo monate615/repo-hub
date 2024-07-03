@@ -3,6 +3,7 @@
   <h1 align="center">AI Models</h1>
 </div>
 
+- [rag-system-llm](https://github.com/monate615/rag-system-llm)
 - [llm-flowise](https://github.com/monate615/llm-flowise)
 - [llm-llama-factory](https://github.com/monate615/llm-llama-factory)
 - [llm-langflow](https://github.com/monate615/llm-langflow)
